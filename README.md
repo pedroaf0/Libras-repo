@@ -17,3 +17,10 @@ Materiais para quem quer aprender libras
 # Dicionário (videos para o anki) 
 [wiki.vlibras.gov.br](https://wiki.vlibras.gov.br/)
 [web.farroupilha.ifrs.edu.br/paginas/~moodleinclui/index.php](https://web.farroupilha.ifrs.edu.br/paginas/~moodleinclui/index.php)
+
+# Vídeos para treinar:
+[ENEM em libras](http://enemvideolibras.inep.gov.br/)
+
+[Tempero Drag](https://www.youtube.com/channel/UCZdJE8KpuFm6NRafHTEIC-g)
+
+
